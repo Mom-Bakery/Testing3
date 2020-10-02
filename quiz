@@ -8,12 +8,11 @@
 <label>Student ID</label>
 <input type="text" name="id"/><br/>
 
-
-<h1>Kids Quiz</h1>
+<h1>Kids Quiz Mathematics</h1>
 
 <label>10 + 5:</label>
 <input type="text" name="q1"/><br/>
-<label>20 / 4:</label>
+<label>20 + 4:</label>
 <input type="text" name="q2"/><br/>
 <label>9 - 2:</label>
 <input type="text" name="q3"/><br/>
@@ -23,16 +22,16 @@
 <input type="text" name="q5"/><br/>
 <label>17 + 5:</label>
 <input type="text" name="q6"/><br/>
-<label>3 * 8:</label>
+<label>3 - 8:</label>
 <input type="text" name="q7"/><br/>
 <label>9 + 2:</label>
 <input type="text" name="q8"/><br/>
-<label>10 * 3:</label>
+<label>10 - 3:</label>
 <input type="text" name="q9"/><br/>
 <label>8 + 11:</label>
 <input type="text" name="q10"/><br/>
 
-<input type="submit" value="mark my quiz pls!!!"/>
+<input type="submit" value="mark my quiz"/>
 </form>
 </body>
 </html>
